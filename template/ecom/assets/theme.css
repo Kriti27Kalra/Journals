@@ -11858,7 +11858,7 @@ font-weight: 600;
 
 
 .site-logo {
-    max-width: 500px; /* adjust size */
+    max-width: 525px; /* adjust size */
     height: auto;
     margin-left: -50px;
 }
@@ -11866,22 +11866,9 @@ font-weight: 600;
     display: inline-block;
 }
 
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between; /* keeps them apart */
-}
-
-.header img {
-  max-height: 50px; /* adjust so logo isn't huge */
-}
-
-.header .news {
-  flex-shrink: 0; /* stops text from overlapping */
-}
 
 .navbar-toggler i {
-  font-size: 35px; /* make icon bigger */
+  font-size: 32px; /* make icon bigger */
   line-height: 1;
 }
 
