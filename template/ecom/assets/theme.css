@@ -11853,3 +11853,17 @@ font-weight: 600;
     margin-top: 10px;
     font-size: 20px;
 }
+
+
+
+
+.site-logo {
+    max-width: 525px; /* adjust size */
+    height: auto;
+    margin-left: -50px;
+}
+.logo {
+    display: inline-block;
+}
+
+
