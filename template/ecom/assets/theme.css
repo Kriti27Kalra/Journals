@@ -11754,7 +11754,7 @@ hr.dark{
 }
 
 ul.footer-privacy li a{
-	color: #2e1860;
+	color: #2e1860 !important;
     font-size: 14px;
     font-weight: 600;
 }
