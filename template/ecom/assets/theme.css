@@ -11614,7 +11614,7 @@ hr.dark{
   box-shadow: 0px 3px 15px 2px rgb(150 147 136 / 50%);
 }
 .my-header{
-	background-color: #066e08 !important;
+	background-color: #2e1860 !important;
 }
 .my-header a.nav-link{
 	color: #efefef !important;
@@ -11754,7 +11754,7 @@ hr.dark{
 }
 
 ul.footer-privacy li a{
-	color: #0d9530;
+	color: #2e1860;
     font-size: 14px;
     font-weight: 600;
 }
